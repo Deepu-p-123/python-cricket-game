@@ -11,7 +11,7 @@ The same process occurs. Whoever scored more points wins.
 There are different strategies that can be employed when playing this game. One strategy would be to pick randomly, but with the probability of each number chosen according to the situation. For example, if you have one run to win, you might pick each number equally; with two runs to win, you might make a 1 less likely
 . However, it's important to note that there is no perfect strategy for this game as it depends on the opponent's moves and tactics.
 
-HOW TO PLAY
+#HOW TO PLAY
 _____________________
 
 In my game you can play against the computer the rules are similar to the hand cricket game
